@@ -1,0 +1,6 @@
+"Name","Number of cores","CPU clock frequency","Blade slots required"
+"BladeCenter PS700","4","3.0GHz","1"
+"BladeCenter PS701","8","3.0GHz","1"
+"BladeCenter PS702","16","3.0GHz","2"
+"BladeCenter PS703","16","2.4GHz","1"
+"BladeCenter PS704","32","2.4GHz","2"
