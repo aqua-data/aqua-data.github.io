@@ -1,0 +1,6 @@
+"Group ID","Event ID","Name","Parameters"
+"00","000000","EVENT_MediaInit","1"
+"00","000010","EVENT_Shutdown","1"
+"01","000110","EVENT_TitleInit","2"
+"02","000210","EVENT_ApplicationLayer","2"
+"02","000220","EVENT_ComputeSP","3"
