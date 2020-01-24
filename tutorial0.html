@@ -1,0 +1,385 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>AQuA Tutorial</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+  <meta content="text/html;charset=UTF-8" http-equiv="Content-Type" />
+
+  <!-- Import Vega 5 & Vega-Lite 3 (does not have to be from CDN) -->
+  <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@3"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@4"></script>
+
+  <!-- MTURK-JS -->
+  <script src='https://s3.amazonaws.com/mturk-public/externalHIT_v1.js' type='text/javascript'></script>
+
+  <!-- META TAGS -->
+  <meta content="width=device-width,initial-scale=1" name="viewport" />
+
+  <!-- JQuery -->
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.16/css/jquery.dataTables.css">
+  <script type="text/javascript" src="https://cdn.datatables.net/1.10.16/js/jquery.dataTables.js"></script>
+
+  <!-- CSS FRAMEWORK -->
+
+  <!-- ****** USE LOCALLY TO PREVENT RATE LIMITING ******
+  <link rel="stylesheet" href="spectre/spectre.min.css">
+  <link rel="stylesheet" href="spectre/spectre-exp.min.css">
+  <link rel="stylesheet" href="spectre/spectre-icons.min.css">-->
+
+  <!-- ****** USE IN AWS ****** -->
+  <link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre.min.css">
+  <link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre-exp.min.css">
+  <link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre-icons.min.css">
+
+  <!-- ICONS -->
+  <!-- <link rel="icon" href="favicon.ico" type="image/x-icon" />-->
+</head>
+
+<body>
+
+  <div class="container container-fixed">
+    <div class="columns">
+
+      <!-- VISUALIZATION, DESCRIPTION, TABLE -->
+      <div class="column col-8">
+
+        <!-- <figcaption class="figure-caption text-center">
+          ${pseudo_description}
+          </figcaption>-->
+        <div class="figure-container">
+          <div id="figure-img" style="display: inline-block;"></div>
+        </div>
+
+        <div class="table-container">
+          <h6><span style="font-weight: bold; color: #a0302d">Dataset: </span>Seattle weather</h6>
+
+        </div><!-- /TABLE-CONTAINER -->
+
+      </div><!-- COLUMN -->
+
+      <!-- FORM -->
+      <div class="form-panel column col-4">
+        <div class="form-area">
+          <div class="toast toast-error d-hide">
+            <button class="btn btn-clear float-right"></button>
+            <b>No option was selected</b>
+            <ul class="error-list">
+              <li>Please select one or more sentence(s) which can be used as caption of the given visualization.</li>
+            </ul>
+          </div>
+
+          <p class="form-prompt">Candidate description (the checked ones are valid):</p>
+          <form action="https://workersandbox.mturk.com/mturk/externalSubmit" id="mturk_form" method="post"
+            name="mturk_form" autocomplete="off">
+
+            <!-- ASSIGNMENT_ID-->
+            <input id="assignmentId" name="assignmentId" type="hidden" value="">
+
+            <!-- FORM QUESTIONS-->
+            <div class="form-group">
+              <label class="form-checkbox">
+                <input type="checkbox" checked>
+                <i class="form-icon"></i> <!-- What was the mean precipitation in July?-->
+                Average temperature of each month in Seattle from Jan 2012 to Dec 2015
+              </label>
+              <p class="explanation"><span style="color: #068a9c">*</span> This sentence accurately describes the content of the plot.</p>
+              <label class="form-checkbox">
+                <input type="checkbox">
+                <i class="form-icon"></i> <!-- What was the combined mean precipitation for the entire year?-->
+                Highest temperature of each month in Seattle from Jan 2012 to Dec 2015
+              </label>
+              <p class="explanation"><span class="text-error">*</span> The plot shows "average temperature" instead of "highest temperature".</p>
+              <label class="form-checkbox">
+                <input type="checkbox">
+                <i class="form-icon"></i> <!-- Which month had the least rain?-->
+                Average temperature of each month in Seattle from 2017 to 2019
+              </label>
+              <p class="explanation"><span class="text-error">*</span> Wrong time span.</p>
+              <label class="form-checkbox">
+                <input type="checkbox" checked>
+                <i class="form-icon"></i> <!-- Which month had the most rain? -->
+                Average temperature of each month of the city from Jan 2012 to Dec 2015.
+              </label>
+              <p class="explanation"><span style="color: #068a9c">*</span> The description is valid since all data in the table are about Seattle and there won't be ambiguity.</p>
+              <label class="form-checkbox">
+                <input type="checkbox" checked>
+                <i class="form-icon"></i> <!-- Which month had the most rain? -->
+                Average temperature of each month of the city from 2012 to 2015.
+              </label>
+              <p class="explanation"><span style="color: #068a9c">*</span> The description is valid since without specifying the month the implied month range is Jan to Dec.</p>
+              <label class="form-checkbox">
+                <input type="checkbox" checked>
+                <i class="form-icon"></i> <!-- Which month had the most rain? -->
+                What is the monthly average temperature of Seattle from 2012 to 2015?
+              </label>
+              <p class="explanation"><span style="color: #068a9c">*</span> The description is valid and it is in a question form.</p>
+              <label class="form-checkbox">
+                <input type="checkbox" checked>
+                <i class="form-icon"></i> <!-- Which month had the most rain? -->
+                Show me the monthly average temperature of Seattle from 2012 to 2015
+              </label>
+              <p class="explanation"><span style="color: #068a9c">*</span> The description is valid and it starts with a verb.</p>
+              <label class="form-checkbox">
+                <input type="checkbox" checked>
+                <i class="form-icon"></i> <!-- Which month had the most rain? -->
+                Hottest month in Seattle each year from 2012 to 2015
+              </label>
+              <p class="explanation"><span style="color: #068a9c">*</span> The description is valid since it refers to a salient fact one can infer from the whole plot.</p>
+              <label class="form-checkbox">
+                <input type="checkbox">
+                <i class="form-icon"></i> <!-- Which month had the most rain? -->
+                Hottest month in Seattle in 2014
+              </label>
+              <p class="explanation"><span class="text-error">*</span> The description is invalid since it covers only a small fraction of information shown in the plot.</p>
+              <label class="form-checkbox">
+                <input type="checkbox">
+                <i class="form-icon"></i> <!-- Which month had the most rain? -->
+                Jun, July, Aug are the hottest months in Seattle from 2012 to 2015
+              </label>
+              <p class="explanation"><span class="text-error">*</span> This description cannot be converted into a question by adding question words in front of it.</p>
+              <label class="form-checkbox">
+                <input type="checkbox">
+                <i class="form-icon"></i> <!-- Which month had the most rain? -->
+                Average temperature in Seattle from 2012 to 2015 oscillates around 15.
+              </label>
+              <p class="explanation"><span class="text-error">*</span> This description cannot be converted into a question by adding question words in front of it.</p>
+            </div>
+          </form>
+        </div><!-- /FROM-AREA -->
+
+      </div><!-- /COLUMN-->
+
+    </div> <!-- /COLUMNS -->
+  </div> <!-- /CONTAINER -->
+
+  <!-- JAVASCRIPT -->
+  <script>
+    turkSetAssignmentID();
+
+    $(document).ready(
+      function () {
+        $('table').DataTable({
+          "pageLength": 5
+        });
+        setFigureContainerHeight();
+      });
+
+    $(window).on('resize', function () {
+      setFigureContainerHeight();
+    });
+
+    function setFigureContainerHeight() {
+      $('.figure-container').css('height', $(window).height() - $('.table-container').height()) - 10; //set height
+      $('.figure-container').css('max-height', $(window).height() - $('.table-container').height() - 10); //set max height
+    }
+
+    // render data visualization
+    function renderVis() {
+      const fullSpec = {
+        "data": {"url": "https://aqua-data.github.io/data/vega-datasets/seattle-weather.csv"},
+        "mark": "line",
+        "encoding": {
+          "x": {
+            "timeUnit": "yearmonth",
+            "field": "date",
+            "type": "ordinal"
+          },
+          "y": {
+            "aggregate": "mean",
+            "field": "temp_max",
+            "type": "quantitative"
+          }
+        },
+        "title": "which year is the warmest"
+      };
+      vegaEmbed('#figure-img', fullSpec).then(function (result) {
+        // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+      }).catch(console.error);
+      console.log($('#figure-img').height());
+    }
+    renderVis();
+
+    // enable submitBtn
+    const submitBtn = document.querySelector('button[type="submit"]');
+    const checkboxes = document.querySelectorAll('input[type="checkbox"]')
+
+    for (let i = 0; i < checkboxes.length; i++) {
+      checkboxes[i].addEventListener('click', toggleSubmit, false);
+    }
+
+    function toggleSubmit() {
+      for (let i = 0; i < checkboxes.length; i++) {
+        if (checkboxes[i].checked) {
+          submitBtn.removeAttribute('disabled');
+          return false;
+        } else {
+          submitBtn.setAttribute('disabled', 'disabled');
+        }
+      }
+    }
+
+    // instruction controls
+    const showBtn = document.querySelector('button[name="show-instructions"]');
+    const hideBtn = document.querySelector('button[name="hide-instructions"]');
+    const formArea = document.querySelector('.form-area');
+    const instructions = document.querySelector('.instructions');
+
+    // open instructions
+    showBtn.addEventListener('click', event => {
+      showBtn.classList.add('d-hide');
+      hideBtn.classList.remove('d-hide');
+      instructions.classList.remove('d-hide');
+      formArea.classList.add('d-hide');
+    });
+
+    // close instructions
+    hideBtn.addEventListener('click', event => {
+      showBtn.classList.remove('d-hide');
+      hideBtn.classList.add('d-hide');
+      instructions.classList.add('d-hide');
+      formArea.classList.remove('d-hide');
+    });
+  </script>
+
+  <!-- STYLESHEETS -->
+  <style>
+    hr {
+      border-top: .05rem solid #f1f3f5;
+    }
+
+    b {
+      margin-bottom: 10px;
+    }
+
+    ol,
+    ul {
+      margin: 0px;
+      list-style-type: none;
+    }
+
+    .container-fixed {
+      position: fixed;
+    }
+
+    .figure-caption {
+      padding-top: 20px;
+      padding-bottom: 20px;
+    }
+
+    .figure-container {
+      padding: 20px 20px 20px 20px;
+      overflow-x: auto;
+      text-align: center;
+      vertical-align: middle;
+      position: relative;
+    }
+
+    #figure-img {
+      margin: auto;
+      display: inline-block;
+      /* position: absolute;
+      top: 50%;
+      left: 50%;
+      -ms-transform: translate(-50%, -50%);
+      transform: translate(-50%, -50%); */
+    }
+
+    #figure-img details {
+      display: none;
+    }
+
+    .vega-embed {
+      padding-right: 0px;
+    }
+
+    .table-container {
+      border-top: 2px solid #dadee4;
+      display: block;
+      max-height: 40vh;
+      overflow-x: auto;
+      padding-top: 10px;
+    }
+
+    .table.table-scroll {
+      display: table;
+      overflow-x: unset;
+    }
+
+    .explanation {
+      font-size: 13.5px;
+    }
+
+    .form-panel {
+      background-color: #f7f8f9;
+      min-height: 100vh;
+      padding: 20px 20px 0px 20px;
+      position: fixed;
+      right: 0px;
+    }
+
+    .form-prompt {
+      font-weight: bold;
+      margin-bottom: 10px;
+    }
+
+    .button-container {
+      margin: 20px 0px 40px 0px;
+    }
+
+    .instructions {
+      margin-bottom: 70px;
+      overflow-y: auto;
+      max-height: 100vh;
+    }
+
+    .instructions>p {
+      margin-bottom: 16px;
+    }
+
+    .form-footer {
+      background-color: #f8f8f9;
+      bottom: 0px;
+      min-height: 62px;
+      padding-right: 40px;
+      position: fixed;
+      text-align: center;
+      width: inherit;
+    }
+
+    .form-footer {
+      background-color: #f8f8f9;
+      bottom: 0px;
+      min-height: 62px;
+      padding-right: 40px;
+      position: fixed;
+      text-align: center;
+      width: inherit;
+    }
+
+    /* MEDIA QUERIES */
+    @media only screen and (min-width: 552px) {
+      .btn-primary[type="submit"] {
+        top: 40px;
+      }
+    }
+
+    @media only screen and (min-width: 802px) {
+      .btn-primary[type="submit"] {
+        position: unset;
+      }
+
+      .form-switch[for="issue-toggle"] {
+        display: inline-block;
+        margin-left: 10px;
+        top: 2px;
+      }
+    }
+  </style>
+
+</body>
+
+</html>
