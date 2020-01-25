@@ -536,7 +536,7 @@
             </ul>
           </div>
 
-          <p class="form-prompt">Candidate description (the checked ones are valid):</p>
+          <p class="form-prompt">Candidate descriptions (the checked ones are valid):</p>
           <form action="https://workersandbox.mturk.com/mturk/externalSubmit" id="mturk_form" method="post"
             name="mturk_form" autocomplete="off">
 
@@ -550,31 +550,19 @@
                 <i class="form-icon"></i> <!-- What was the mean precipitation in July?-->
                 Average temperature of each month in Seattle from Jan 2012 to Dec 2015
               </label>
-              <p class="explanation"><span style="color: #068a9c">*</span> This is an accurate description of the plot. It can be converted into a question by adding the question word "what" at the beginning</p>
-              <label class="form-checkbox">
-                <input type="checkbox">
-                <i class="form-icon"></i> <!-- What was the combined mean precipitation for the entire year?-->
-                Highest temperature of each month in Seattle from Jan 2012 to Dec 2015
-              </label>
-              <p class="explanation"><span class="text-error">*</span> The plot shows "average temperature" instead of "highest temperature".</p>
-              <label class="form-checkbox">
-                <input type="checkbox">
-                <i class="form-icon"></i> <!-- Which month had the least rain?-->
-                Average temperature of each month in Seattle from 2017 to 2019
-              </label>
-              <p class="explanation"><span class="text-error">*</span> Wrong time span.</p>
+              <p class="explanation"><span style="color: #068a9c">*</span> This is an accurate description of the plot which can be converted into a question by adding the question word "what" at the beginning</p>
               <label class="form-checkbox">
                 <input type="checkbox" checked>
                 <i class="form-icon"></i> <!-- Which month had the most rain? -->
                 Average temperature of each month of the city from Jan 2012 to Dec 2015.
               </label>
-              <p class="explanation"><span style="color: #068a9c">*</span> The description is valid since all data in the table are about Seattle and there won't be ambiguity.</p>
+              <p class="explanation"><span style="color: #068a9c">*</span> The description is valid without specifying the exact city since Seattle is the only city the table concerns.</p>
               <label class="form-checkbox">
                 <input type="checkbox" checked>
                 <i class="form-icon"></i> <!-- Which month had the most rain? -->
                 Average temperature of each month of the city from 2012 to 2015.
               </label>
-              <p class="explanation"><span style="color: #068a9c">*</span> The description is valid since without specifying the month the implied month range is Jan to Dec.</p>
+              <p class="explanation"><span style="color: #068a9c">*</span> The description is valid since without specifying the month the default range is Jan to Dec.</p>
               <label class="form-checkbox">
                 <input type="checkbox" checked>
                 <i class="form-icon"></i> <!-- Which month had the most rain? -->
@@ -592,13 +580,25 @@
                 <i class="form-icon"></i> <!-- Which month had the most rain? -->
                 Hottest month in Seattle each year from 2012 to 2015
               </label>
-              <p class="explanation"><span style="color: #068a9c">*</span> The description is valid since it refers to a salient fact one can infer from the whole plot.</p>
+              <p class="explanation"><span style="color: #068a9c">*</span> The description is valid since it refers to a salient fact shown by the whole plot.</p>
               <label class="form-checkbox">
                 <input type="checkbox">
                 <i class="form-icon"></i> <!-- Which month had the most rain? -->
                 Hottest month in Seattle in 2014
               </label>
               <p class="explanation"><span class="text-error">*</span> The description is invalid since it covers only a small fraction of information shown in the plot.</p>
+              <label class="form-checkbox">
+                <input type="checkbox">
+                <i class="form-icon"></i> <!-- What was the combined mean precipitation for the entire year?-->
+                Highest temperature of each month in Seattle from Jan 2012 to Dec 2015
+              </label>
+              <p class="explanation"><span class="text-error">*</span> The plot shows "average temperature" instead of "highest temperature".</p>
+              <label class="form-checkbox">
+                <input type="checkbox">
+                <i class="form-icon"></i> <!-- Which month had the least rain?-->
+                Average temperature of each month in Seattle from 2017 to 2019
+              </label>
+              <p class="explanation"><span class="text-error">*</span> Wrong time span.</p>
               <label class="form-checkbox">
                 <input type="checkbox">
                 <i class="form-icon"></i> <!-- Which month had the most rain? -->
@@ -779,7 +779,7 @@
     .form-panel {
       background-color: #f7f8f9;
       min-height: 100vh;
-      padding: 20px 0px 0px 20px;
+      padding: 20px 10px 0px 20px;
       position: fixed;
       right: 0px;
     }
