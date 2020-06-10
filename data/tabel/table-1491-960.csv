@@ -1,0 +1,6 @@
+"Employee.LastName","Employee.DepartmentID","Department.DepartmentName","Department.DepartmentID"
+"Robinson","34","Clerical","34"
+"Jones","33","Engineering","33"
+"Smith","34","Clerical","34"
+"Heisenberg","33","Engineering","33"
+"Rafferty","31","Sales","31"

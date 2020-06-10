@@ -1,0 +1,8 @@
+"person","Ahnentafel format","binary format","atree (for women)","atree (for men)"
+"Subject","1","1","F","M"
+"Father","2","10","FM","MM"
+"Mother","3","11","FF","MF"
+"Father's father","4","100","FMM","MMM"
+"Father's mother","5","101","FMF","MMF"
+"Mother's father","6","110","FFM","MFM"
+"Mother's mother","7","111","FFF","MFF"

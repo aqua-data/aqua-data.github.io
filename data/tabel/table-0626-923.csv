@@ -1,0 +1,6 @@
+"AC","CWmin","CWmax","AIFSN","Max TXOP"
+"Background (AC_BK)","15","1023","7","0"
+"Best Effort (AC_BE)","15","1023","3","0"
+"Video (AC_VI)","7","15","2","3.008ms"
+"Voice (AC_VO)","3","7","2","1.504ms"
+"Legacy DCF","15","1023","2","0"

@@ -1,0 +1,8 @@
+"Enzyme","Location","Substrate","Product","Chromosome","EC","OMIM","Porphyria"
+"ALA synthase","Mitochondrion","Glycine , succinyl CoA","δ-Aminolevulinic acid","3p21.1","0.0851","125290",""
+"ALA dehydratase","Cytosol","δ-Aminolevulinic acid","Porphobilinogen","9q34","0.1008","125270","ALA-Dehydratase deficiency"
+"PBG deaminase","Cytosol","Porphobilinogen","Hydroxymethyl bilane","11q23.3","0.1525","176000","acute intermittent porphyria"
+"Uroporphyrinogen III synthase","Cytosol","Hydroxymethyl bilane","Uroporphyrinogen III","10q25.2-q26.3","0.31500000000000006","606938","congenital erythropoietic porphyria"
+"Uroporphyrinogen III decarboxylase","Cytosol","Uroporphyrinogen III","Coproporphyrinogen III","1p34","0.1517","176100","porphyria cutanea tarda"
+"Coproporphyrinogen III oxidase","Mitochondrion","Coproporphyrinogen III","Protoporphyrinogen IX","3q12","0.11699999999999999","121300","coproporphyria"
+"Protoporphyrinogen oxidase","Mitochondrion","Protoporphyrinogen IX","Protoporphyrin IX","1q22","0.15600000000000003","600923","variegate porphyria"

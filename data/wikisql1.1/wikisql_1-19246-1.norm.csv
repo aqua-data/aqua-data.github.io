@@ -1,0 +1,7 @@
+"Carrier","Standard","Frequency","Connection speed (kilobit / second)","Launch date (dd.mm.yyyy)"
+"Orange","GSM GPRS","900MHz and 1800MHz","56.0","2005-09-14T00:00:00"
+"Orange","GSM EDGE","900MHz and 1800MHz","236.8","2006-04-17T00:00:00"
+"Moldcell","GSM GPRS","900MHz and 1800MHz","56.0","2005-01-31T00:00:00"
+"Moldcell","GSM EDGE","900MHz and 1800MHz","236.8","2005-07-06T00:00:00"
+"Unite","CDMA 1x","450MHz","153.0","2007-01-03T00:00:00"
+"IDC","CDMA 1x","800MHz","153.0","1999-09-09T00:00:00"

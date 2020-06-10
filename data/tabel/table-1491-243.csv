@@ -1,0 +1,8 @@
+"Material","Reusable","Processing","Type of hologram","Theoretical maximum efficiency","Required exposure [mJ/cm 2 ]","Resolution limit [mm −1 ]"
+"Photographic emulsions","No","Wet","Amplitude","6%","1.5","5000"
+"Photographic emulsions","No","Wet","Phase (bleached)","60%","1.5","5000"
+"Dichromated gelatin","No","Wet","Phase","100%","100","10,000"
+"Photoresist","No","Wet","Phase","30%","100","3,000"
+"Photothermoplastics","Yes","Charge and heat","Phase","33%","0.1","500–1,200"
+"Photopolymer","No","Post exposure","Phase","100%","10000","5,000"
+"Photorefractives","Yes","None","Phase","100%","10","10,000"

@@ -1,0 +1,7 @@
+"Atom","Nearest Neighbors","Second-Nearest Neighbors","Third-Nearest Neighbors"
+"Adatom","1","4","4"
+"Step adatom","2","6","4"
+"Kink atom","3","6","4"
+"Step atom","4","6","4"
+"Surface atom","5","8","4"
+"Bulk atom","6","12","8"

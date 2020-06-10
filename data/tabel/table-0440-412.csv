@@ -1,0 +1,7 @@
+"Stored binary value of counter","Approximation","Range of possible values for the actual count"
+"0","1","0, or initial value"
+"1","2","1 or more"
+"10","4","2 or more"
+"11","8","3 or more"
+"100","16","4 or more"
+"101","32","5 or more"

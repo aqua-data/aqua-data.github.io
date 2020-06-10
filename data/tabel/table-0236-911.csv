@@ -1,0 +1,7 @@
+"Name","Type","Range","Channels","Description"
+"HF","Radio","300","10","HF secure"
+"VHF","Radio","100","10","VHF secure"
+"UHF","Radio","100","10","UHF secure"
+"HF","Radio","300","10","HF plain"
+"VHF","Radio","100","10","VHF plain"
+"UHF","Radio","100","10","UHF plain"

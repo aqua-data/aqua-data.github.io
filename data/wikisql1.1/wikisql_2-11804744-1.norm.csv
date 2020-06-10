@@ -1,0 +1,6 @@
+"Number","Type","Clock (gigahertz)","Scratch (gigabyte)","Memory","Cache (megabyte)"
+"128","L5520","2.26","85","24 GB QPI 5.86 GT/s","8"
+"256","L5520","2.26","85","24 GB QPI 5.86 GT/s","8"
+"32","L5640","2.26","220","24 GB QPI 5.86 GT/s","12"
+"64","L5640","2.26","220","24 GB QPI 5.86 GT/s","12"
+"144","2650L","1.8","750","32 GB QPI 8.00 GT/s","20"

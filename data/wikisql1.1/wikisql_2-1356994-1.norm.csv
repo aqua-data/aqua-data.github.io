@@ -1,0 +1,6 @@
+"FOURCC","DX 10 Name","Description","Alpha premultiplied?","Compression ratio","Texture Type"
+"DXT1","BC1","1-bit Alpha / Opaque","","6:1","Simple non-alpha"
+"DXT2","","Explicit alpha","Yes","4:1","Sharp alpha"
+"DXT3","BC2","Explicit alpha","No","4:1","Sharp alpha"
+"DXT4","","Interpolated alpha","Yes","4:1","Gradient alpha"
+"DXT5","BC3","Interpolated alpha","No","4:1","Gradient alpha"

@@ -1,0 +1,7 @@
+"Vacuum range","Pressure in hPa (mbar)","Molecules / cm 3","Molecules / m 3","Mean free path"
+"Ambient pressure","1013","513.0","675.0","68 nm"
+"Low vacuum","300 - 1","30","30","0.1 - 100 μm"
+"Medium vacuum","1 - 10 -3","30","30","0.1 - 100mm"
+"High vacuum","10 -3 - 10 -7","40","40","10cm - 1km"
+"Ultra high vacuum","10 -7 - 10 -12","50","50","1km - 10 5 km"
+"Extremely high vacuum","<10 -12","40","100",">10 5 km"

@@ -1,0 +1,8 @@
+"Vehicle","Operating mode","EPA rated All-electric range","EPA rated combined fuel economy","Clean electric grid California (San Francisco) (gram / mile)","U.S. national average electric mix (gram / mile)","Dirty electric grid Rocky Mountains (Denver) (gram / mile)"
+"Mitsubishi i-MiEV","All-electric","mi","112 mpg-e","100.0","200.0","290.0"
+"Ford Focus Electric","All-electric","mi","105 mpg-e","110.0","210.0","310.0"
+"BMW ActiveE","All-electric","mi","102 mpg-e","110.0","220.0","320.0"
+"Nissan Leaf","All-electric","mi","99 mpg-e","120.0","230.0","330.0"
+"Chevrolet Volt","Electricity only","mi","94 mpg-e","190.0","260.0","330.0"
+"Smart ED","All-electric","mi","87 mpg-e","130.0","260.0","380.0"
+"Coda","All-electric","mi","73 mpg-e","160.0","300.0","440.0"

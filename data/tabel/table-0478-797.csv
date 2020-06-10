@@ -1,0 +1,7 @@
+"Area","Noise limit land (dB)","IMO noise limit (dB)"
+"workshop","70","85"
+"kitchen","60","75"
+"control rooms","55","75"
+"offices","55","65"
+"dining rooms","55","65"
+"sleeping area","45","60"

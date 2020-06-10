@@ -1,0 +1,7 @@
+"Mission type","Success rate","Total attempts","Success","Partial success","Launch failure","Failed en route","Failed to orbit/land"
+"Flyby","45%","11","5","0","4","2","0"
+"Orbiter","50%","22","9","2","5","3","3"
+"Lander","30%","10","3","0","0","3","4"
+"Rover","57%","7","4","1","0","0","2"
+"Sample return","0%","1","0","0","0","Phobos","0"
+"Total","42%","51","21","3","9","9","9"

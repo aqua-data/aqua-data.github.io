@@ -1,0 +1,6 @@
+"Model Number","Frequency (megahertz)","L2 Cache (kilobyte)","HT (megahertz)","Mult. 1","Voltage","TDP (watt)","Socket","Release date","Order Part Number"
+"Athlon X2 QL-60","1900","1024","1800","0 9.5x","0.95 - 1.1V","35","Socket S1G2","June 4, 2008","AMQL60DAM22GG"
+"Athlon X2 QL-62","2000","1024","1800","10.0x","0.95 - 1.1V","35","Socket S1G2","Q3 2008","AMQL62DAM22GG"
+"Athlon X2 QL-64","2100","1024","1800","10.5x","0.95 - 1.1V","35","Socket S1G2","Q4 2008","AMQL64DAM22GG"
+"Athlon X2 QL-65","2100","1024","2000","10.5x","0.95 - 1.1V","35","Socket S1G2","Q4 2008","AMQL65DAM22GG"
+"Athlon X2 QL-66","2200","1024","1800","11.0x","0.95 - 1.1V","35","Socket S1G2","Q4 2008","AMQL66DAM22GG"

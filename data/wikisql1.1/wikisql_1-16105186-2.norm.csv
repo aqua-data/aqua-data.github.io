@@ -1,0 +1,7 @@
+"Vehicle","EPA rated All-electric range","EPA rated combined fuel economy","Alaska ( Juneau ) (gram / mile)","California (San Francisco) (gram / mile)","Mid-Atlantic South (Washington, D.C.) (gram / mile)","U.S. national average electric mix (gram / mile)","Southeast (Atlanta) (gram / mile)","Midwest (Des Moines) (gram / mile)","Rocky Mountains (Denver)"
+"Mitsubishi i-MiEV","mi","112 mpg-e","80.0","100.0","160.0","200.0","230.0","270.0","290 g/mi"
+"Ford Focus Electric","mi","105 mpg-e","80.0","110.0","170.0","210.0","250.0","280.0","310 g/mi"
+"BMW ActiveE","mi","102 mpg-e","90.0","110.0","180.0","220.0","250.0","290.0","320 g/mi"
+"Nissan Leaf","mi","99 mpg-e","90.0","120.0","190.0","230.0","260.0","300.0","330 g/mi"
+"Chevrolet Volt","mi","94 mpg-e","170.0","190.0","230.0","260.0","290.0","310.0","330 g/mi  1)"
+"Smart ED","mi","87 mpg-e","100.0","130.0","210.0","260.0","300.0","350.0","380 g/mi"

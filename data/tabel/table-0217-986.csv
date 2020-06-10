@@ -1,0 +1,8 @@
+"Formula of glass component","Desired concentration of glass component, wt%","Molar mass of glass component, g/mol","Batch component","Formula of batch component","Molar mass of batch component, g/mol"
+"SiO 2","67","60.0843","Sand","SiO 2","60.0843"
+"Na 2 O","12","61.9789","Trona","Na 3 H(CO 3 ) 2 *2H 2 O","226.0262"
+"CaO","10","56.0774","Lime","CaCO 3","100.0872"
+"Al 2 O 3","5","101.9613","Albite","Na 2 O*Al 2 O 3 *6SiO 2","524.4460"
+"K 2 O","1","94.1960","Orthoclase","K 2 O*Al 2 O 3 *6SiO 2","556.6631"
+"MgO","2","40.3044","Dolomite","MgCa(CO 3 ) 2","184.4014"
+"B 2 O 3","3","69.6202","Borax","Na 2 B 4 O 7 *10H 2 O","381.3721"

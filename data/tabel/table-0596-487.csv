@@ -1,0 +1,7 @@
+"Specification","Speed","Pumping","Rate (MB/s)","Frequency (MHz)","Voltage (V)"
+"PCI","-","single","133","33","3.3/5"
+"AGP 1.0","1×","single","266","66","3.3"
+"AGP 1.0","2×","double","533","66","3.3"
+"AGP 2.0","4×","quad","1066","66","1.5"
+"AGP 3.0","8×","octuple","2133","66","0.8"
+"AGP 3.5 *","8×","octuple","2133","66","0.8"

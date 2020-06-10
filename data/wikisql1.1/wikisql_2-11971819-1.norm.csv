@@ -1,0 +1,6 @@
+"Unit","Reactor Type","Net Capacity (megawatt)","Gross Capacity (megawatt)","Construction Start","Grid Connection","Commercial Operation","Status"
+"Hamaoka-1","BWR","515","540","1971-06-10T00:00:00","1974-08-13T00:00:00","1976-03-17T00:00:00","Shutdown January 30, 2009"
+"Hamaoka-2","BWR","806","840","1974-06-14T00:00:00","1978-05-04T00:00:00","1978-11-29T00:00:00","Shutdown January 30, 2009"
+"Hamaoka-3","BWR-5","1056","1100","1983-04-18T00:00:00","1987-01-20T00:00:00","1987-08-28T00:00:00","Shutdown May, 2011"
+"Hamaoka-4","BWR-5","1092","1137","1989-10-13T00:00:00","1993-01-27T00:00:00","1993-09-03T00:00:00","Shutdown May, 2011"
+"Hamaoka-5","ABWR","1212","1267","2000-07-12T00:00:00","2004-04-26T00:00:00","2005-01-18T00:00:00","Shutdown May, 2011"

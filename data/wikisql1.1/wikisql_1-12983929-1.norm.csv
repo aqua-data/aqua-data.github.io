@@ -1,0 +1,7 @@
+"Unit","Type","Net power (megawatt)","Total power (megawatt)","Construction start","Construction finish","Commercial operation","Shut down"
+"Chinon A1","Magnox-Reactor","70","80","1957-01-02T00:00:00","1963-06-14T00:00:00","1964-01-02T00:00:00","16.04.1973"
+"Chinon A2","Magnox-Reactor","210","230","1959-01-08T00:00:00","1965-02-24T00:00:00","1965-02-24T00:00:00","14.06.1985"
+"Chinon A3","Magnox-Reactor","480","480","1961-01-03T00:00:00","1966-04-08T00:00:00","1966-04-08T00:00:00","15.06.1990"
+"Chinon B1","PWR","905","954","1977-01-03T00:00:00","1982-11-30T00:00:00","1984-01-02T00:00:00","Qualified to operate until 2024"
+"Chinon B2","PWR","905","954","1977-01-03T00:00:00","1983-11-29T00:00:00","1984-01-08T00:00:00","Qualified to operate until 2024"
+"Chinon B3","PWR","905","954","1980-01-10T00:00:00","1986-10-20T00:00:00","1987-04-03T00:00:00","Qualified to operate until 2027"

@@ -1,0 +1,7 @@
+"Name of the systems","No of frames per second","No of lines per frame","Video bandwidth, MHz."
+"A","25","405","3"
+"B-C-G-H","25","625","5"
+"D-K-L","25","625","6"
+"E","25","819","10"
+"M-J","30","525","4.2"
+"N","25","625","4.2"

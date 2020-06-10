@@ -1,0 +1,6 @@
+"Class","Leading bits","Size of network number bit field","Size of rest bit field","Number of networks","Addresses per network","Start address","End address"
+"Class A","0","8","24","128","16,777,216","0.0","8.274756374999999"
+"Class B","10","16","16","16,384","65,536","0.0","12.436356374999999"
+"Class C","110","24","8","2,097,152","256","0.0","14.517156375"
+"Class D","1110","not defined","not defined","not defined","not defined","0.0","15.557556375"
+"Class E","1111","not defined","not defined","not defined","not defined","0.0","16.597956375"

@@ -1,0 +1,7 @@
+"Graphics","Launch","Market","CPU","Code name","Device ID","Core clock ( MHz )","Execution units","Shader model","DirectX","OpenGL","OpenCL","Memory bandwidth ( GB/s )","DVMT ( MB )","CVT HD","QSV"
+"HD Graphics","2010-01-01T00:00:00","Desktop","Celeron G1101 PentiumG69xx","Ironlake","42","533","12","4.0","10.0","2.1","No","17.0","1720-01-01T00:00:00","No","No"
+"HD Graphics","2010-01-01T00:00:00","Desktop","Core i3-5x0 Core i5-6x0 Core i5-655K","Ironlake","42","733","12","4.0","10.0","2.1","No","21.3","1720-01-01T00:00:00","Yes","No"
+"HD Graphics","2010-01-01T00:00:00","Desktop","Core i5-661","Ironlake","42","900","12","4.0","10.0","2.1","No","21.3","1720-01-01T00:00:00","Yes","No"
+"HD Graphics","2010-01-01T00:00:00","Mobile","Celeron U3xxx Pentium U5xxx","Ironlake","46","166-500","12","4.0","10.0","2.1","No","12.8","1720-01-01T00:00:00","No","No"
+"HD Graphics","2010-01-01T00:00:00","Mobile","Core i7-620LE Core i7-6x0LM","Ironlake","46","266-566","12","4.0","10.0","2.1","No","17.1","1720-01-01T00:00:00","Yes","No"
+"HD Graphics","2010-01-01T00:00:00","Mobile","Celeron P4xxx Pentium P6xxx","Ironlake","46","500-667","12","4.0","10.0","2.1","No","17.1","1720-01-01T00:00:00","No","No"

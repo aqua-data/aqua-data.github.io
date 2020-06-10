@@ -1,0 +1,6 @@
+"Material","Resistivity (10 −6 ohm-inches)","Relative permeability","Skin depth, inches","Surface resistance, 10 −3 ohms/square (thick material)","Surface resistance, Relative to copper"
+"Carbon steel 1010","9","200","0.004","2.25","56.25"
+"Stainless steel 432","24.5","200","0.007","3.5","87.5"
+"Stainless steel 304","29","1","0.112","0.26","6.5"
+"Aluminum","1.12","1","0.022","0.051","1.28"
+"Copper","0.68","1","0.017","0.04","1"

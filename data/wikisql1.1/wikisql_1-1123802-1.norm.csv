@@ -1,0 +1,6 @@
+"Engine","Power, continuous","Critical altitude This is the highest altitude at which the engine can achieve its full continuous power rating. Above this altitude, power falls off with height as with a naturally aspirated engine . See Supercharger#Altitude effects for details.","Power, takeoff","Compression ratio","Supercharger gear ratio","Octane rating","Dry weight (pound)"
+"Wasp Jr. A","hp  at 2,000 RPM","sea level","same","5.0:1","7:1","68","1"
+"Wasp Jr. TB","hp  at 2,200 RPM","sea level","hp  at 2,300 RPM","6.0:1","8:1","80","1"
+"Wasp Jr. SB","hp  at 2,200 RPM","ft","hp  at 2,300 RPM","6.0:1","10:1","0.9195402298850575","1"
+"Wasp Jr. T1B2","hp  at 2,300 RPM","ft","same","6.0:1","10:1","0.9195402298850575","1"
+"Wasp Jr. B4","hp  at 2,300 RPM","ft","same","6.0:1","10:1","0.9195402298850575","1"

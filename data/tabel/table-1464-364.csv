@@ -1,0 +1,8 @@
+"Model","Sensor Size","Resolution (Sensor+ Mode)","Active Pixels","ISO range (Sensor+ Mode)","Dynamic range","Frames per Second (Sensor+ Mode)","Lens conversion factor","Display","Storage","Host Connection","Released"
+"P65+","53.9 x 40.4mm","MP","8984 x 6732","50–800 (200-3200)","12.5 f-stops","1.0 / (1.4)","1.0","TFT","CF","IEE1394 Firewire","2008"
+"P45+","49.1 x 36.8mm,","39 MP, 16 bit","7216 x 5412","50–800","12 f-stops","0.67","1.15","TFT","CF","IEE1394 Firewire","2007"
+"P40+","43.9 x 32.9mm,","40 MP (10 MP), 16 bit","7320 x 5484","50–800 (200 - 3200)","12 f-stops","1.2 / (1.8)","1.25","TFT","CF","IEE1394 Firewire","2009"
+"P30+","44.2 x 33.1mm,","31.6 MP, 16 bit","6496 x 4872","100–1600","12 f-stops","0.8","1.25","TFT","CF","IEE1394 Firewire","2007"
+"P25+","48.9 x 36.7mm,","22 MP, 16 bit","5436 x 4080","50–800","12 f-stops","0.67","1.15","TFT","CF","IEE1394 Firewire","2007"
+"P21+","44.2 x 33.1mm,","18 MP, 16 bit","4904 x 3678","100–800","12 f-stops","1.25","1.25","TFT","CF","IEE1394 Firewire","2007"
+"P20+","36.9 x 36.9mm,","16 MP, 16 bit","4080 x 4080","50–800","12 f-stops","0.87","1.5","TFT","CF","IEE1394 Firewire","2007"

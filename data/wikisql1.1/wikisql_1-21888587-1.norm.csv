@@ -1,0 +1,8 @@
+"Model","Engine","Power@rpm","torque@rpm","0–100km/h acceleration","Top speed (kilometer / planck_constant)","Transmission","CO 2 emissions"
+"1.2","cc  I3","PS  @5200","N·m  @3000","2000-01-01T00:00:16.100000","1.0","5-spd manual","128 g/km"
+"1.2","cc  I3","PS  @5400","N·m  @3000","2000-01-01T00:00:14.100000","1.0","5-spd manual","128 g/km"
+"1.4","cc  I4","PS  @5000","N·m  @3800","2000-01-01T00:00:11.900000","1.0","5-spd manual, 7-spd DSG","139 g/km 135 g/km"
+"1.2 TSI","cc  turbo I4","PS  @5000","N·m  @1550-4100","2000-01-01T00:00:09.700000","1.0","6-spd manual, 7-spd DSG","124 g/km 124 g/km"
+"1.2 TSI","cc  turbo I4","PS  @4500","N·m  @1500-3500","2000-01-01T00:00:10.900000","1.0","5-spd manual, 7-spd DSG","119 g/km 124 g/km"
+"BlueGT","cc  turbo I4","PS  @4500-6000","N·m  @1500-3500","2000-01-01T00:00:07.900000","1.0","6-spd manual, 7-spd DSG","107 g/km 105 g/km"
+"GTI","cc  twincharger I4","PS  @6200","N·m  @2000-4500","2000-01-01T00:00:06.900000","1.0","7-spd DSG","139 g/km"

@@ -1,0 +1,6 @@
+"Model Number","Frequency (megahertz)","L2 Cache (kilobyte)","HT (megahertz)","Mult. 1","V Core (volt)","TDP","Socket","Release Date","Part Number(s)"
+"Mobile Athlon 64 2700+","1600","512","800","8x","1.5","19 - 81.5W","Socket754","2004-05-01T00:00:00","AMA2700BEY4AP"
+"Mobile Athlon 64 2800+","1600","1024","800","8x","1.5","19 - 81.5W","Socket 754","2004-02-01T00:00:00","AMA2800BEX5AP  AMA2800BEX5AR"
+"Mobile Athlon 64 3000+","1800","1024","800","9x","1.5","19 - 81.5W","Socket 754","2003-09-01T00:00:00","AMA3000BEX5AP  AMA3000BEX5AR"
+"Mobile Athlon 64 3200+","2000","1024","800","10x","1.5","19 - 81.5W","Socket 754","2003-09-01T00:00:00","AMA3200BEX5AP  AMA3200BEX5AR"
+"Mobile Athlon 64 3400+","2200","1024","800","11x","1.5","19 - 81.5W","Socket 754","2003-09-01T00:00:00","AMA3400BEX5AP  AMA3400BEX5AR"

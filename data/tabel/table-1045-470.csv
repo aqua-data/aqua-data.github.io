@@ -1,0 +1,6 @@
+"Situation","Recommended minimum process capability for two-sided specifications","Recommended minimum process capability for one-sided specification"
+"Existing process","1.33","1.25"
+"New process","1.50","1.45"
+"Safety or critical parameter for existing process","1.50","1.45"
+"Safety or critical parameter for new process","1.67","1.60"
+"Six Sigma","2.00","2.00"

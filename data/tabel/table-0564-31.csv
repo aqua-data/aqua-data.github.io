@@ -1,0 +1,7 @@
+"Gas","Specific gravity","Thermal dissociation energy (eV)","Ionization energy (eV)","Thermal conductivity (W/m.K)","Enthalpy (MJ/mol)"
+"Ar","1.380","not applicable","15.76","0.644","0.24"
+"He","0.138","not applicable","24.28","2.453","0.21"
+"H 2","0.069","4.59","13.69","3.736","0.91"
+"N 2","0.967","9.76","14.53","1.675","1.49"
+"O 2","1.105","5.17","13.62","1.370","0.99"
+"Air","1.000","n.a.","n.a.","1.709","1.39"

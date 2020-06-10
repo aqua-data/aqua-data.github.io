@@ -1,0 +1,6 @@
+"Model Number","Clock Speed (gigahertz)","L1 Cache","L2 Cache","FSB Speed (megahertz)","Clock Multiplier","Idle Power (milliwatt)","Socket","Cores","Release Date"
+"Nano U1700","1.0","16+16 KB","256 KB","800","130","200","NanoBGA2","1","2008-05-29T00:00:00"
+"Nano U2300","1.0","16+16 KB","256 KB","533","7.5","100","NanoBGA2","1","2008-05-29T00:00:00"
+"Nano U2225","1.3","16+16 KB","256 KB","800","13","200","NanoBGA2","1","2008-05-29T00:00:00"
+"Nano U2250","1.3","16+16 KB","256 KB","800","208","200","NanoBGA2","1","2008-05-29T00:00:00"
+"Nano U2500","1.2","16+16 KB","256 KB","800","12","100","NanoBGA2","1","2008-05-29T00:00:00"

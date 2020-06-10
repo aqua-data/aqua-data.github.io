@@ -1,0 +1,6 @@
+"Hydride CAS registry number","Mol.Wt.","Hydrogen Density","Density g/cm 3","m.p. (°C)","solubility in water (g/100 mL, 25 °C)","solubility in CH 3 OH (g/100 mL, 25 °C)","solubility in ether (g/100 mL, 25 °C)","solubility in THF (g/100 mL, 25 °C)"
+"LiBH 4 ","21.78","18.5","0.66","280","20.9","decomp. (44 in EtOH)","4.3","22.5"
+"NaBH 4 ","37.83","10.6","1.07","505","55","16.4 (20 °C)","insol.","0.1 (20 °C)"
+"NaBH 3 CN","62.84","6.4","1.20","240 with deccomp.","deccomp.","217","insol.","36"
+"KBH 4 ","53.94","7.4","1.17","585 (under H 2 )","19","insol.","insol.","insol."
+"LiBH(C 2 H 5 ) 3 ","105.94","0.95","unknown","unknown","decomp.","decomp.","na","high (supplied commercially)"

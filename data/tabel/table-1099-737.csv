@@ -1,0 +1,6 @@
+"Species","Organism Common Name","Gene Common Name","NCBI Accession Number","Sequence Identity","[P-value|Expected value]","Sequence Length (bp)","Time Since Split from Humans, MYA (Data from TimeTree.org)"
+"Homo sapiens","Human","C16orf13","NM_032366.3","100%","0","854","0"
+"Pan troglodytes","Chimpanzee","LOC467858","NM_032366.3","98%","0","784","6.4"
+"Canis lupus familiaris","Dog","C6H16orf13","XM_547214.3","88%","0","865","94.4"
+"Mus musculus","Mouse","0610011F06Rik","NM_026686.2","86%","0","825","92.4"
+"Xenopus (Silurana) tropicalis","Western clawed frog","c16orf13","NM_001039734.1","BLAST search found no significant similarity","BLAST search found no significant similarity","993","371.2"

@@ -1,0 +1,7 @@
+"Vehicle Type","Direction X","Direction Y","Total"
+"Car","48","47","95"
+"Truck","2","41","43"
+"Van","5","7","12"
+"Bus","1","0","1"
+"Bike","3","1","4"
+"Pedestrian","3","4","7"

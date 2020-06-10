@@ -1,0 +1,6 @@
+"Variant","Bitrate","[Aspect_ratio_(image)|Display Aspect Ratio]","Total Lines (per Frame)","Active Pixels","Active Lines","[Frame_rate|Frame_rate]"
+"SMPTE 259M-A","143 Mbit/s","4:3","525","768","486","59.94i"
+"SMPTE 259M-B","177 Mbit/s","4:3","625","948","576","50i"
+"SMPTE 259M-C","270 Mbit/s","4:3 or 16:9","525","720","486","59.94i"
+"SMPTE 259M-C","270 Mbit/s","4:3 or 16:9","625","720","576","50i"
+"SMPTE 259M-D","360 Mbit/s","16:9","525","960","486","59.94i"

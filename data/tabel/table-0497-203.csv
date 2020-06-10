@@ -1,0 +1,6 @@
+"feature diameter (nm)","minimum dose to avoid 5% dose error among 1 million features (mJ/cm 2 )","targeted dose (mJ/cm 2 )","throughput at targeted dose (300mm WPH)"
+"40","12","5","-"
+"28","24","10","6-60"
+"20","47","15","50-125"
+"14","96","20","125"
+"10","187","20","165"

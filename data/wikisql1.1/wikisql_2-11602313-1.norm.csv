@@ -1,0 +1,6 @@
+"Model number","sSpec number","Frequency (gigahertz)","L2 cache (megabyte)","Mult.","Voltage","Socket","Release date","Part number(s)","Release price ( USD ) ($)"
+"Pentium Dual-Core E2140","SLA3JSLA93SLALS","1.6","1","8","1.162-1.312V","LGA 775","2007-06-03T00:00:00","HH80557PG0251M","74"
+"Pentium Dual-Core E2160","SLA3HSLA8ZSLA9ZSLASX","1.8","1","9","1.162-1.312V","LGA 775","2007-06-03T00:00:00","HH80557PG0331M","84"
+"Pentium Dual-Core E2180","SLA8Y","2","1","10","0.85-1.50V","LGA 775","2007-08-26T00:00:00","HH80557PG0411M","84"
+"Pentium Dual-Core E2200","SLA8X","2.2","1","11","0.85-1.50V","LGA 775","2007-12-02T00:00:00","HH80557PG0491M","84"
+"Pentium Dual-Core E2220","SLA8W","2.4","1","12","0.85-1.50V","LGA 775","2008-03-02T00:00:00","HH80557PG0561M","84"

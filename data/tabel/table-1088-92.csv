@@ -1,0 +1,6 @@
+"S.No.","Station","Arrival","Departure","Halt (Min.)","Day","Elevation"
+"1","New Delhi","Starting Station","18:55","-","1","215m"
+"2","Kanpur Central","00:50","00:55","5","2","128m"
+"3","Allahabad Junction","03:35","04:00","25","2","100m"
+"4","Manduadih","07:03","07:05","2","2","82m"
+"5","Varanasi Junction","07:25","Destination","-","2","82m"

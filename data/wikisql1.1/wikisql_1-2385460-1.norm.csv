@@ -1,0 +1,6 @@
+"Lines","Opening","Traction","Length (kilometer)","Stations","Route","Stops","Travel time (minute)"
+"Naples - Baiano","1885-01-01T00:00:00","Electric","38","28","Porta Nolana - Nola - Baiano","28","59"
+"Naples - Sarno","1891-01-01T00:00:00","Electric","38","28","Porta Nolana - Ottaviano- Sarno","28","65"
+"Naples - Poggiomarino","1904-01-01T00:00:00","Electric","35","25","Porta Nolana -Scafati - Poggiomarino","25","57"
+"Naples - Sorrento","1932-01-01T00:00:00","Electric","47","36","Porta Nolana - Torre Annunziata - Sorrento","36","68"
+"Branch Botteghelle - San Giorgio","2001-01-01T00:00:00","Electric","8","7","Porta Nolana - Centro Direzionale - San Giorgio","11","15"

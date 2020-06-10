@@ -1,0 +1,8 @@
+"Model Number","Frequency (megahertz)","L2-Cache (kibibyte)","Front Side Bus (megatesla / second)","Multiplier","Voltage (volt)","Idle Power (milliwatt)","Socket"
+"Eden ULV 500","500","128","400.0","5","0.684","100","NanoBGA2"
+"Eden ULV 500","500","128","400.0","5","0.6875","1","MobileBGA"
+"Eden ULV 1.0GHz","1000","128","400.0","10","0.796","500","NanoBGA2"
+"Eden ULV 1.0GHz","1000","128","400.0","10","0.8","1","MobileBGA"
+"Eden ULV 1.5GHz","1500","128","400.0","15","0.956","500","NanoBGA2"
+"Eden ULV 1.6GHz","1600","128","800.0","7.5","0.988","1","NanoBGA2"
+"Eden ULV 1.6GHz","1600","128","800.0","7.5","0.9875","1","MobileBGA"

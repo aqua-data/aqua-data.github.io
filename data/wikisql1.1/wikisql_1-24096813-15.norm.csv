@@ -1,0 +1,6 @@
+"Model number","Frequency (megahertz)","L1 Cache","FSB (megatesla / second)","Mult.","Voltage","TDP (watt)","Socket","Release date","Part number(s)","sSpec number"
+"Mobile Pentium MMX 166","167","16 + 16 KB","66.0","2.5","Core=1.8 I/O=2.5V","2.9","TCP 320","1998-01-12T00:00:00","TT80503166","SL2N6"
+"Mobile Pentium MMX 200","200","16 + 16 KB","66.0","3","Core=1.8 I/O=2.5V","3.4","Socket 7 TCP320","1997-09-08T00:00:00","FV80503200TT80503200","SL2WK , SL28P"
+"Mobile Pentium MMX 233","233","16 + 16 KB","66.0","3.5","Core=1.8 I/O=2.5V","3.9","Socket 7TCP320","1997-09-08T00:00:00","FV80503233TT80503233","SL2Z3, SL28Q"
+"Mobile Pentium MMX 300","300","16 + 16 KB","66.0","4.5","Core=2.0 I/O=2.5V","8.0","TCP320","1999-01-07T00:00:00","TT80503300","SL34N"
+"Embedded Pentium MMX 166","167","16 + 16 KB","66.0","2.5","Core=1.9 I/O=2.5V","4.1","Socket 7 HL-PBGA352","1998-10-13T00:00:00","FV80503166GC80503CSM","SL2ZX , SL388 , SL3B8"

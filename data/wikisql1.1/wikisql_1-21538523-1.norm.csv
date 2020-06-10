@@ -1,0 +1,7 @@
+"Class","Weapon","Caliber","Type","Weight (g)","Range (m)","Velocity (m/s)","Impact Energy (joule)","Shots"
+"BR1","Handgun/Rifle",".22 LR","LB/RN","2,6 ± 0,1","10,00 ± 0,5","3600","170","3"
+"BR2","Handgun","9x19mm Parabellum","FJ/RN/SC","8,0 ± 0,1","5,00 ± 0,5","4000","640","3"
+"BR3","Handgun",".357 Magnum","FJ/CB/SC","10,2 ± 0,1","5,00 ± 0,5","4300","940","3"
+"BR4","Handgun",".44 Magnum","FJ/FN/SC","15,6 ± 0,1","5,00 ± 0,5","4400","1510","3"
+"BR5","Rifle","5.56x45mm NATO","FJ/PB/SCP","4,0 ± 0,1","10,00 ± 0,5","9500","1800","3"
+"BR6","Rifle","7.62x51mm NATO","FJ/PB/SC","9,5 ± 0,1","10,00 ± 0,5","8300","3270","3"

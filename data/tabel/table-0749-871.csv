@@ -1,0 +1,6 @@
+"Aircraft category","V AT","Range of speeds for initial approach (and reversal and racetrack procedures)","Range of final approach speeds","Maximum speeds for circling","Maximum speeds for intermediate missed approach","Maximum speeds for final missed approach","Typical Aircraft in this Category"
+"A","<91","90 - 150 (110*)","70 - 110","100","100","110","small single engine"
+"B","91 - 120","120 - 180 (140*)","85 - 130","135","130","150","small multi engine"
+"C","121 - 140","160 - 240","115 - 160","180","160","240","airline jet"
+"D","141 - 165","185 - 250","130 - 185","205","185","265","large jet/military jet"
+"E","166 - 210","185 - 250","155 - 230","240","230","275","special military"

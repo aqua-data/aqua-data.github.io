@@ -1,0 +1,6 @@
+"Component","M [ g / mol ]","Volume V S","Corrections","Calculated density [g·cm −3 ]","Exp. density [g·cm −3 ]"
+"Cyclohexanol","100","(6×2)+(13×1)+(1×2)=26","One ring and a hydroxylic group = 120%","d= 1.2*100 / 5×26 =0.92","0.962"
+"Dimethylethylphosphine","90","(4×2)+(11×1)+(1×4)=23","No corrections","d= 90 / 5×23 =0.78","0.76"
+"Ethylenediamine","60","(2×2)+(8×1)+(2×2)=16","Two primary amine groups = 120%","d= 1.2×60 / 5×16 =0.90","0.899"
+"Sulfolane","120","(4×2)+(8×1)+(2×2)+(1×4)=24","One ring and two S=O bonds = 130%","d= 1.3×120 / 5×24 =1.30","1.262"
+"1-Bromonaphthalene","207","(10×2)+(7×1)+(1×5)=32","Two condensed rings = 115%","d= 1,15×207 / 5×32 =1.49","1.483"

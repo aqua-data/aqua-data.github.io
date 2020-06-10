@@ -1,0 +1,6 @@
+"Channel Number","AMSU-B Channel Number","Frequency (GHz)","Bandwidth (at nadir)","[Noise-equivalent_temperature|Noise-equivalent_temperature]"
+"1","16","89.9 ± 0.9","DELETED","DELETED"
+"2","17","150 ± 0.9","4000","0.68"
+"3","18","183.31 ± 1.00","2x500","0.57"
+"4","19","183.31 ± 3.00","2x1000","0.39"
+"5","20","183.31 ± 7.00","2x2000","0.30"

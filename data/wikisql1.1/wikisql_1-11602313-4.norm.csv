@@ -1,0 +1,7 @@
+"Model number","sSpec number","Frequency (gigahertz)","L2 cache (megabyte)","FSB (megatesla / second)","Mult.","Voltage","TDP (watt)","Socket","Release date","Part number(s)","Release price ( USD )"
+"Pentium Dual-Core T2310","SLAEC","1.47","1","533.0","11","1.075-1.175V","35","Socket P","Q4 2007","LF80537GE0201M","$90"
+"Pentium Dual-Core T2330","SLA4K","1.6","1","533.0","12","1.075-1.175V","35","Socket P","Q4 2007","LF80537GE0251MN","OEM"
+"Pentium Dual-Core T2370","SLA4J","1.73","1","533.0","13","1.075-1.175V","35","Socket P","Q4 2007","LF80537GE0301M","OEM"
+"Pentium Dual-Core T2390","SLA4H","1.87","1","533.0","14","1.075-1.175V","35","Socket P","Q2 2008","LF80537GE0361M","OEM"
+"Pentium Dual-Core T2410","SLA4G","2","1","533.0","15","1.075-1.175V","35","Socket P","Q3 2008","LF80537GE0411M","OEM"
+"Pentium Dual-Core T3200","SLAVG","2","1","667.0","12","1.075-1.175V","35","Socket P","Q4 2008","LF80537GF0411M","OEM"

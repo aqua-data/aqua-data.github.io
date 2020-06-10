@@ -1,0 +1,6 @@
+"Matrix Family","Detailed Family Information","From","To","Strand","Similarity","Sequence (CAPITALS: core sequence)"
+"V$PLAG","adenoma","51","73","(+)","1.000","taGGGGgaagtagaggagttcca"
+"V$TALE","homeodomain","157","173","(+)","1.000","ggtggtgtGTCAgaggc"
+"V$ZF02","zinc finger","294","316","(-)","1.000","cagcgCCCCacctggggtccgtg"
+"V$MIZ1","Myc","417","427","(-)","1.000","cacgcCCTCtg"
+"O$TF2B","RNA polymerase II","517","523","(-)","1.000","ccgCGCC"

@@ -1,0 +1,7 @@
+"Bit Depth","Planes","Number of Colors"
+"4","1","16 colors from a palette"
+"8","1","256 colors from a palette"
+"8","1","256 shades of gray"
+"4","4","4095 colors with 16 levels of transparency"
+"8","3","16.7 million, 24-bit ""true color"""
+"8","4","16.7 million with 256 levels of transparency"

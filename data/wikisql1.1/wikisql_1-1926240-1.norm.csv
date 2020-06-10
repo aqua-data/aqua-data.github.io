@@ -1,0 +1,7 @@
+"Standard","Color system","Informational CVBS Lines","Bit rate [ Mbit/s ]","Waveform","Bits per line (including run-in)","Max. Characters (per page row)"
+"A","SECAM","2000-07-18T00:00:00","6.203","squared Sine wave","320","35"
+"B","NTSC","2000-10-18T00:00:00","5.727","Symmetrical about 1/2 bit rate","296","32"
+"B","PAL","2000-07-18T00:00:00","6.938","Symmetrical about 1/2 bit rate","360","40"
+"C","NTSC","2000-10-18T00:00:00","5.727","Raised cosine 100% roll-off","288","31"
+"C","PAL","2000-10-18T00:00:00","5.734","Raised cosine 100% roll-off","288","31"
+"D","NTSC","2000-10-18T00:00:00","5.727","Controlled cosine roll-off of 0.6","296","32"

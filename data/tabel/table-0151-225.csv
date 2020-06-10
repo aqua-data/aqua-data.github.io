@@ -1,0 +1,8 @@
+"Name","Nominal composition [% by weight]","Form and condition","[Pounds_per_square_inch|ksi]","Tensile strength [ksi]","Elongation [% (in 2inches)]","[Brinell_scale|Brinell scale]","Uses"
+"ASTM","Mn","Cast","—","50","0.5","260","Engine"
+"White cast iron","C3.4, Si0.7, Mn0.6","Cast (as cast)","—","25","0","450","Bearing"
+"Malleable iron (ASTM A47)","C2.5, Si1.0, Mn0.55","Cast (annealed)","33","52","12","130","Axle"
+"Ductile or nodular iron","Ni","Cast","53","70","18","170","camshaft"
+"Ductile or nodular iron (ASTM A339)","—","cast (quench tempered)","108","135","5","310","—"
+"Ni-hard type 2","C2.7, Si0.6, Mn0.5, Ni4.5, Cr2.0","Sand-cast","—","55","—","550","High strength applications"
+"Ni-resist type 2","C3.0, Si2.0, Mn1.0, Ni20.0, Cr2.5","Cast","—","27","2","140","Resistance to heat and corrosion"

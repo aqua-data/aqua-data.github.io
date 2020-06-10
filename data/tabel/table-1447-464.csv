@@ -1,0 +1,8 @@
+"S3","S2","# of rings","# of cells per ring","Cell Stacking"
+"600-cell","Icosahedron","20","30","Boerdijk–Coxeter helix"
+"120-cell","Dodecahedron","12","10","face stacking"
+"24-cell","Tetrahedron","4","6","face stacking"
+"24-cell","Cube","6","4","vertex stacking"
+"16-cell","Dihedron","2","8","Boerdijk–Coxeter helix"
+"Tesseract","Dihedron","2","4","face stacking"
+"5-cell","sphere","1","5","Boerdijk–Coxeter helix"

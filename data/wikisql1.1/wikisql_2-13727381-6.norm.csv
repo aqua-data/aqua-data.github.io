@@ -1,0 +1,6 @@
+"picture","Dual Archimedean solid","Faces","Edges","Vertices","Face Polygon"
+"","icosidodecahedron","30","60","32","rhombus"
+"","truncated dodecahedron","60","90","32","isosceles triangle"
+"","truncated icosahedron","60","90","32","isosceles triangle"
+"","rhombicosidodecahedron","60","120","62","kite"
+"","truncated icosidodecahedron","120","180","62","scalene triangle"

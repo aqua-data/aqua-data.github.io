@@ -1,0 +1,8 @@
+"Model","Code name","# of CPUs","CPU","CPU MHz","B-cache","Chipset","Memory","Expansion","Enclosure","Introduced","Discontinued"
+"500/266","Maverick","1","21164","266","2 MB","21171","32 to 512 MB","1 33MHz PCI-X 3 PCI","Desktop","1996-03-06","?"
+"500/333","Maverick","1","21164","333","2 MB","21171","32 to 512 MB","1 33MHz PCI-X 3 PCI","Desktop","1996-03-06","?"
+"500/400","Bret","1","21164A","400","2 MB","21172","32 MB to 1 GB","1 33MHz PCI-X 3 PCI","Desktop","1996-03-06","?"
+"500/500","Bret","1","21164A","500","8 MB","21172","32 MB to 1 GB","1 33MHz PCI-X 3 PCI","Desktop","1996-08-06","?"
+"600 5/266","Alcor","1","21164 (EV5)","266","2 or 4 MB","21171","32 MB to 1 GB","PCI-X","Pedestal","1995-08-02","?"
+"600 5/300","Alcor","1","21164 (EV5)","300","2 or 4 MB","21171","32 MB to 1 GB","PCI-X","Pedestal","1995-08-02","?"
+"600 5/333","Alcor","1","21164 (EV5)","333","4 MB","21171","32 MB to 1 GB","PCI-X","Pedestal","?","?"

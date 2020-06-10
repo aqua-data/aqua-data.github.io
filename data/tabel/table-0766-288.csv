@@ -1,0 +1,7 @@
+"Model","[Pixel_density|PPI]","[Pixel_density|ppcm]","[Display_resolution|Resolution]","Typical viewing distance (in/cm)","[Retina_Display|Pixels per degree]"
+"iPhone 4","326","128","960×640","inches (cm)","57"
+"iPhone 5","326","128","1136×640","inches (cm)","57"
+"3rd","264","105","2048×1536","inches (cm)","69"
+"iPad Mini (2nd generation)","326","128","2048×1536","inches (cm)","85"
+"MacBook Pro","220","87","2880×1800","inches (cm)","77"
+"MacBook Pro","227","89","2560×1600","inches (cm)","79"

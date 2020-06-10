@@ -1,0 +1,6 @@
+"Model number","sSpec number","Frequency (gigahertz)","GPU frequency (megahertz)","L2 cache","I/O bus","Memory","Voltage","TDP (watt)","Socket","Release date","Part number(s)","Release price ( USD ) ($)"
+"Atom E625C","SLH9Z","600","320","512 KB","PCIe","1 × DDR2-800","0.8-1.175V","2.7","FC-BGA 1466","2010-11-22T00:00:00","CY80632007227AB","61"
+"AtomE625CT","SLH9K","600","320","512 KB","PCIe","1 × DDR2-800","0.8-1.175V","2.7","FC-BGA 1466","2010-11-22T00:00:00","CY80632007227AA","65"
+"Atom E645C","SLH9Y","1","320","512 KB","PCIe","1 × DDR2-800","0.8-1.175V","3.6","FC-BGA 1466","2010-11-22T00:00:00","CY80632007221AB","72"
+"AtomE645CT","SLH9J","1","320","512 KB","PCIe","1 × DDR2-800","0.8-1.175V","3.6","FC-BGA 1466","2010-11-22T00:00:00","CY80632007221AA","79"
+"Atom E665C","SLH9X","1.3","400","512 KB","PCIe","1 × DDR2-800","0.8-1.175V","3.6","FC-BGA 1466","2010-11-22T00:00:00","CY80632007224AB","97"

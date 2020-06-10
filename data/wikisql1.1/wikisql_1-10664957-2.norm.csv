@@ -1,0 +1,8 @@
+"1st players choice","2nd players choice","Probability 1st player wins","Probability 2nd player wins","Probability of a draw"
+"BB B","R BB","0.0011","0.9948999999999999","0.004"
+"BB R","R BB","0.0262","0.9354","0.0384"
+"BR B","B BR","0.1161","0.8011","0.0828"
+"BR R","B BR","0.0518","0.8829","0.0653"
+"RB B","R RB","0.0518","0.8829","0.0653"
+"RB R","R RB","0.1161","0.8011","0.0828"
+"RR B","B RR","0.0262","0.9354","0.0384"

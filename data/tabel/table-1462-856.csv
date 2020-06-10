@@ -1,0 +1,7 @@
+"SM Particle type","Particle","Symbol","[Spin_(physics)|Spin]","R-Parity","Superpartner","Symbol","Spin","R-parity"
+"Fermions","Quark","q","\begin{matrix} \frac{1}{2} \end{matrix}","+1","Sfermion","\tilde{q}","0","-1"
+"Fermions","Lepton","\ell","\begin{matrix} \frac{1}{2} \end{matrix}","+1","Sfermion","\tilde{\ell}","0","-1"
+"Bosons","W","W","1","+1","Wino","\tilde{W}","\begin{matrix} \frac{1}{2} \end{matrix}","-1"
+"Bosons","B","B","1","+1","Bino","\tilde{B}","\begin{matrix} \frac{1}{2} \end{matrix}","-1"
+"Bosons","Gluon","g","1","+1","Gluino","\tilde{g}","\begin{matrix} \frac{1}{2} \end{matrix}","-1"
+"Higgs bosons","Higgs","h_u, h_d","0","+1","Higgsino","\tilde{h}_u, \tilde{h}_d","\begin{matrix} \frac{1}{2} \end{matrix}","-1"

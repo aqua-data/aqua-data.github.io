@@ -1,0 +1,8 @@
+"Scientific Name","Common Name","Mean Predicted Date of Divergence (MYA)","[Amino_acid|aa]","RNA NCBI Accession Number","Protein NCBI Accession Number","RNA Identity","Protein Identity"
+"Callithrix jacchus","Marmoset","42.6","522","XM_002807499","XP_002807545","42.2%","99.4%"
+"Anolis carolinensis","Dactyloidae","296.0","574","XM_003219667","XP_003219715","27.7%","81.7%"
+"Gallus gallus","Chicken","296.0","576","XM_419163","XP_419163","36.1%","88.0%"
+"Xenopus tropicalis","Western Clawed Frog","371.2","570","NM_001113821","NP_001107293","55.20%","88.0%"
+"Oreochromis niloticus","Tilapia","400.1","578","XM_003444269","XP_003444317","24.0%","70.2%"
+"Apis mellifera","Honey_bee","782.7","877","XM_001120231","XP_001120231","38.7%","24.3%"
+"Saccharomyces cerevisiae","Baker's Yeast","1215.8","725","NM_001179808","NP_012943","29.7%","17.6%"

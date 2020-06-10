@@ -1,0 +1,7 @@
+"Frequency (GHz)","Bandwidth (Δν/ν)","Resolution (arcmin)","Sensitivity (total intensity) ΔT/T, 14 month observation (10 −6 )","Sensitivity (polarization) ΔT/T, 14 month observation (10 −6 )"
+"100","0.33","10","2.5","4.0"
+"143","0.33","7.1","2.2","4.2"
+"217","0.33","5.5","4.8","9.8"
+"353","0.33","5.0","14.7","29.8"
+"545","0.33","5.0","147","N/A"
+"857","0.33","5.0","6700","N/A"

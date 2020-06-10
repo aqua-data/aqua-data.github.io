@@ -1,0 +1,7 @@
+"Property","K-band","Ka-band","Q-band","V-band","W-band"
+"Central wavelength","13.0","9.1","7.3","4.9","3.2"
+"Central frequency","23.0","33.0","41.0","61.0","94.0"
+"Bandwidth","5.5","7.0","8.3","14.0","20.5"
+"Beam size","52.8","39.6","30.6","21.0","13.2"
+"Number of radiometers","2.0","2.0","4.0","4.0","8.0"
+"System temperature","29.0","39.0","59.0","92.0","145.0"

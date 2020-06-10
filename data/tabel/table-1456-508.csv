@@ -1,0 +1,7 @@
+"Board Name","Core Type","Core (MHz)","Memory (MHz)","Pipeline Config","Vertex Processors","Memory Interface"
+"6700 XL","NV43","525","1100","8","3","128-bit"
+"6600 GT GDDR3","NV43","500","900/1000","8","3","128-bit"
+"6600 XL","NV43","400","800","8","3","128-bit"
+"6600 DDR2","NV43","350","800","8","3","128-bit"
+"6600","NV43","300","500/550","8","3","128-bit"
+"6600 LE","NV43","300","500","4","3","128-bit"

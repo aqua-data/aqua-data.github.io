@@ -1,0 +1,6 @@
+"Engine","Horsepower (horsepower * revolutions_per_minute)","Torque (foot * pound * revolutions_per_minute)","Carburetor","Compression Ratio","Bore & Stroke","VIN Code"
+"351-2V Windsor V8","3600","2200","2-barrel","8.20:1","4.0","H"
+"351-2V Modified V8","3800","2400","2-barrel","8.00:1","4.0","H"
+"400-2V 335 series V8","3800","2000","2-barrel","8.00:1","4.0","S"
+"460-4V 385 Series V8","4000","2600","4-barrel","8.00:1","4.36","A"
+"460-4V* 385 Series V8","4000","2600","4-barrel","8.00:1","4.36","C"

@@ -1,0 +1,8 @@
+"Product Name","Form Factor","Storage Medium","Max Usable Capacity (GB)","[IOPS|IOPS]","Latency (microseconds)","Bandwidth (GB/s)"
+"RamSan-440","4U rackmount","DRAM","512","600,000","15","4.5"
+"RamSan-630","3U rackmount","SLC Flash","10,000","1,000,000","80","10"
+"RamSan-70","PCI_Express","SLC Flash","900","1,500,000","30","2.5"
+"RamSan-710","1U rackmount","SLC Flash","5,000","400,000","35","5"
+"RamSan-810","1U rackmount","eMLC Flash","10,000","400,000","25","4"
+"RamSan-720","1U rackmount","SLC Flash","12,000","500,000","25","5"
+"RamSan-820","1U rackmount","eMLC Flash","24,000","450,000","25","4"

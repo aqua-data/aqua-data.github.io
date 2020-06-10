@@ -1,0 +1,8 @@
+"Name","Number of sockets","Number of cores","CPU clock frequency"
+"520 Express","2","4","4.2GHz or 4.7GHz"
+"550 Express","4","8","4.2GHz or 5.0GHz"
+"560 Express","8","16","3.6GHz"
+"570","8","16","4.4GHz or 5.0GHz"
+"570","16","32","4.2GHz"
+"575","16","32","4.7GHz"
+"595","32","64","4.2GHz or 5.0GHz"

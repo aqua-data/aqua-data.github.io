@@ -1,0 +1,8 @@
+"Material","[Half-value_layer|Half value layer]","Halving Thickness, [cm]","Density, [g/cm³]","Halving Mass, [g/cm²]"
+"Lead","0.4","1.0","11.3","12"
+"Steel","0.99","2.5","7.86","20"
+"Concrete","2.4","6.1","3.33","20"
+"soil","3.6","9.1","1.99","18"
+"Water","7.2","18","1.00","18"
+"Lumber or other wood","11","29","0.56","16"
+"Air","6000","15 000","0.0012","18"

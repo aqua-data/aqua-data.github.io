@@ -1,0 +1,6 @@
+"Model","Cores","Threads","[Hertz|GHz]","[Intel_Turbo_Boost|Intel Turbo Boost]","[CPU_cache|Cache]","[Intel_QuickPath_Interconnect|QPI]","TDP (watts)","February 2010 Price","Comments"
+"9310","2","4","1.6","N/A","10","4.8","130","$946","Low power consumption"
+"9320","4","8","1.33","1.46","16","4.8","155","$1,614","Value"
+"9330","4","8","1.46","1.6","20","4.8","155","$2,059","Performance per watt"
+"9340","4","8","1.6","1.73","20","4.8","185","$2,059","Price performance"
+"9350","4","8","1.73","1.86","24","4.8","185","$3,838","Performance"

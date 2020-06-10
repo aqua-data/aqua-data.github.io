@@ -1,0 +1,7 @@
+"MCC","MNC","Brand","Operator","Status","Bands (MHz)","References and notes"
+"620","01","MTN","MTN Group","Operational","GSM 900 / GSM 1800","spacefon"
+"620","02","Vodafone","Vodafone","Operational","GSM 900 / GSM 1800","former Onetouch"
+"620","03","tiGO","Millicom","Operational","GSM 900 / GSM 1800","former MOBITEL"
+"620","04","Expresso","Kasapa / Hutchison Telecom","Operational","CDMA2000","Kasapa"
+"620","06","Airtel","Airtel","Operational","GSM 900 / GSM 1800 / WCDMA","Zain"
+"620","07","Globacom (Zain)","Globacom","Operational","GSM 900 / GSM 1800 / WCDMA","-"

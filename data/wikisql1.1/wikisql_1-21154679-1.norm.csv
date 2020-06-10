@@ -1,0 +1,6 @@
+"Model","Years","Type/code","Transmission","max. power","Torque","0-km/h (mph) (sec)","top speed (kilometer / planck_constant)"
+"A7 2.8 FSI","-2010","cc  V6","multitronic","PS @5250-6250","N·m @3000-5000","8.3","1.0"
+"A7 2.8 FSI quattro","-2012","cc  V6","7 speed S Tronic","PS","N·m","8.3","1.0"
+"A7 3.0 TFSI quattro","-2012","cc  V6 supercharged","7 speed S Tronic","PS @5250-6500","N·m @2900-4500","5.6","1.0"
+"A7 3.0 TFSI quattro","-2012","cc  V6 supercharged","7 speed S Tronic","PS @5400-6500","N·m @2900-4500","5.6","1.0"
+"S7 4.0 TFSI quattro","-2012","cc  V8 twin turbo","7 speed S Tronic","PS @5500-6400","N·m @1400-5200","4.9","1.0"

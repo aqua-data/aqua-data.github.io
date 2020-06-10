@@ -1,0 +1,6 @@
+"Principle","Strain Sensitivity [V/µε]","Threshold [µε]","Span to threshold ratio"
+"Piezoelectric","5.0","0.00001","100,000,000"
+"Piezoresistive","0.0001","0.0001","2,500,000"
+"Inductive","0.001","0.0005","2,000,000"
+"Capacitive","0.005","0.0001","750,000"
+"Resistive","0.000005","0.01","50,000"

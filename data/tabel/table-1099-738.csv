@@ -1,0 +1,6 @@
+"Species","Organism Common Name","Protein Common Name","NCBI Accession Number","Sequence Identity","[P-value|Expected value]","Sequence Length (aa)","Time Since Split from Humans, MYA (Data from TimeTree.org)"
+"Homo sapiens","Human","UPF0585, isoform a","NP_115742.3","100%","0","204","0"
+"Pan troglodytes","Chimpanzee","LOC467858","XP_001154838.1","98%","1E-150","204","6.4"
+"Canis lupus familiaris","Dog","LOC490093","XP_547214.3","91%","4E-141","204","94.4"
+"Mus musculus","Mouse","0610011F06Rik","NP_080962.1","87%","5E-134","204","92.4"
+"Xenopus (Silurana) tropicalis","Western clawed frog","UPF0585 protein C16orf13 homolog","NP_001034823.2","58%","1E-82","203","371.2"

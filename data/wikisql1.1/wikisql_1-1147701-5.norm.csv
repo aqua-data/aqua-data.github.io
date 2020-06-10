@@ -1,0 +1,6 @@
+"Model name","Power (ps)","Torque (Nm@rpm)","Displacement (cm³)","Engine code","Comment"
+"2.5D","140","551000","2460","D5252 T","Inline 5 with turbo"
+"2.4D","130","487000","2401","D5244 T2","Inline 5 with turbo"
+"D5 D5 AWD","163","592000","2401","D5244 T","Inline 5 with turbo"
+"D","126","522750","2400","D5244 T7","Inline 5 with turbo"
+"2.4D","163","592250","2400","D5244 T5","Inline 5 with turbo"
